@@ -1,5 +1,7 @@
 # WhatsApp 2: Brújula y Altímeto por GPS
 
+![Imagen WhatsApp 2](https://static.wikia.nocookie.net/shrek-corporation/images/5/5f/WhatsApp2.png/revision/latest?cb=20210926022313&path-prefix=es)
+
 Estoy cansado de salir a la montaña y estar preguntándome todo el rato la altitud a la que estoy respecto al nivel del mar.
 A pesar de que un teléfono cualquiera posee el hardware suficiente para saber la altitud (GPS o Barómetro), servicios como Google Maps o las aplicaciones más básicas preinstaladas en los terminales por algún motivo no son muy amables y no muestran la elevación con respecto al nivel del mar.
 Si tú también estás cansado de aplicaciones basura que no se pueden desinstalar y que ni siquiera informan de las cosas más básicas he desarrollado esta aplicación ligera y sencilla que puede servir para orientarte en cualquier lugar y obtener las coordenadas geográficas de manera sencilla. Además el tema de la aplicación es WhatsApp 2 por ningún motivo más que el meme y hacerla más graciosa.
