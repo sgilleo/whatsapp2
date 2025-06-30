@@ -1,7 +1,7 @@
 # WhatsApp 2: Brújula y Altímeto por GPS
 
 ![Imagen WhatsApp 2](app.png)
-<img src="app.png" width="100">
+<img src="app.png" width="40">
 
 Estoy cansado de salir a la montaña y estar preguntándome todo el rato la altitud a la que estoy respecto al nivel del mar.
 A pesar de que un teléfono cualquiera posee el hardware suficiente para saber la altitud (GPS o Barómetro), servicios como Google Maps o las aplicaciones más básicas preinstaladas en los terminales por algún motivo no son muy amables y no muestran la elevación con respecto al nivel del mar.
